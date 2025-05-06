@@ -1,0 +1,11 @@
+html{
+color: aliceblue;
+color: bisque;
+color: rgb(0, 132, 255);
+color: blue;
+}
+
+body{
+   background-color: var(--cor-de-fundo);
+
+}
